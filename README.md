@@ -62,7 +62,6 @@ Retail-Sales-Analysis/
 ├── README.md
 ├── dataset/
 │   └── SQL-Retail Sales Analysis_utf.csv
-│
 └── sql_project1.sql
 
 ```
