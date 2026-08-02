@@ -1,4 +1,5 @@
 # 🛍️ Retail Sales Analysis | SQL Data Analytics Project
+
 A beginner-friendly SQL portfolio project that analyzes retail sales data using PostgreSQL to generate meaningful business insights.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -120,7 +121,7 @@ The following data cleaning steps were performed before analysis:
 
 ## 📊 Exploratory Data Analysis
 
-The dataset was explored to understand:
+Exploratory Data Analysis (EDA) was performed to understand:
 
 - Customer demographics
 - Product categories
