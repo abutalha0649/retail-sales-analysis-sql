@@ -1,4 +1,5 @@
 # 🛍️ Retail Sales Analysis | SQL Data Analytics Project
+A beginner-friendly SQL portfolio project that analyzes retail sales data using PostgreSQL to generate meaningful business insights.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
@@ -7,9 +8,7 @@
 
 ## 📖 Project Overview
 
-This project demonstrates the use of SQL to analyze retail sales data and generate meaningful business insights. It covers the complete data analysis workflow, including database creation, data cleaning, exploratory data analysis (EDA), and solving business-oriented analytical problems using PostgreSQL.
-
-The project is part of my **Data Analytics Portfolio**, showcasing practical SQL skills used in real-world data analysis.
+This project demonstrates the use of PostgreSQL to analyze retail sales data and generate meaningful business insights. It covers the complete SQL data analysis workflow, including database creation, data cleaning, exploratory data analysis (EDA), and solving business-oriented analytical problems using SQL queries. This project is part of my Data Analytics portfolio and showcases practical SQL skills used in real-world data analysis.
 
 ---
 
@@ -64,7 +63,10 @@ Retail-Sales-Analysis/
 │   └── SQL-Retail Sales Analysis_utf.csv
 │
 └── sql_project1.sql
+
 ```
+---
+
 ## 📄 Repository Contents
 
 | File | Description |
@@ -176,12 +178,12 @@ This project answers the following business questions:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Retail-Sales-Analysis.git
+git clone https://github.com/abutalha0649/retail-sales-analysis-sql.git
 ```
 
 ### 2. Open PostgreSQL
 
-Open PostgreSQL in pgAdmin and execute the SQL scripts.
+Launch pgAdmin and connect to your PostgreSQL server.
 
 ### 3. Create the Database
 
@@ -191,9 +193,9 @@ Execute the SQL script to create the database and retail_sales table.
 
 Import the dataset into the retail_sales table.
 
-### 5. Execute SQL Queries
+### 5. Execute the Analysis Queries
 
-Execute the SQL queries to perform exploratory data analysis and solve the business problems.
+Run the queries in `sql_project1.sql` to perform data cleaning, exploratory data analysis (EDA), and solve the business problems.
 
 ---
 
@@ -204,6 +206,7 @@ Execute the SQL queries to perform exploratory data analysis and solve the busin
 - ✔ End-to-end SQL analysis workflow
 - ✔ Data cleaning and validation
 - ✔ Exploratory Data Analysis (EDA)
+- ✔ Demonstrates practical SQL skills for Data Analytics
 - ✔ Portfolio-ready SQL project
 
 ---
@@ -235,11 +238,11 @@ Through this project, I strengthened my understanding of:
 
 ## 👨‍💻 About Me
 
-**Abu Talha**
+**Mohammad Abu Talha**
 
 🎓 B.Tech (3rd Year)
 
-📊 Aspiring Data Analyst | B.Tech Student
+📊 Aspiring Data Analyst 
 
 I am a B.Tech (3rd Year) student with a strong interest in Data Analytics. I enjoy transforming raw data into meaningful insights using SQL and continuously improving my analytical skills through hands-on projects.
 
