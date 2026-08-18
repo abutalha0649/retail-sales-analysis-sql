@@ -1,6 +1,6 @@
 # 🛍️ Retail Sales Analysis | SQL Data Analytics Project
 
-A beginner-friendly SQL portfolio project that analyzes retail sales data using PostgreSQL to generate meaningful business insights.
+A SQL portfolio project that analyzes retail sales data using PostgreSQL to generate meaningful business insights.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
